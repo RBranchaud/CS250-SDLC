@@ -12,7 +12,7 @@ Additionally, as user stories are written, the business is slowly creating user 
 
 Well after this course, I believe my approach to developing programs has altered in many ways. Prior to CS250, I had never heard of agile or it's methodologies. I've lived most of my adult and career life using waterfall. Now, after CS250, I'm slowly going to incoprorate agile into my developments and do hybrid tests until I find an approach that yields great results.
   
-In the future, more specifically my next class, I'm going to take the entire curriculum and create a "product backlog" of assignments. Then I'll utilize burn-up charts to track progress and completion dates. I may even lean towards having a daily scrum, yes... with myself,and see if it's beneificial. And I will take these methodologies and tools into my next software development as well. 
+In the future, more specifically my next class, I'm going to take the entire curriculum and create a "product backlog" of assignments. Then I'll utilize burn-up charts to track progress and completion dates. I may even lean towards having a daily scrum, yes... with myself,and see if it's beneficial. And I will take these methodologies and tools into my next software development as well. 
 
 # What does it mean to be a good team member in software development?
 
